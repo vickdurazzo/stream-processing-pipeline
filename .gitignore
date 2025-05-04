@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyd
+*.egg-info
+dist/
+build/
+env/
+venv/
+*.log
+
+# JavaScript
+node_modules/
+package-lock.json
+yarn-error.log
+
+# General
+.DS_Store
+*.swp
+*.swo
+*.env
